@@ -43,20 +43,6 @@ Gosto de transformar ideias em sistemas funcionais, escaláveis e bem estruturad
 
 ---
 
-## 🛠️ Minha stack
-
-```text
-JavaScript       ████████████████████
-TypeScript       ████████████████████
-Next.js          ████████████████████
-Nest.js          ███████████████████░
-React Native     ███████████████████░
-Java             ██████████████████░░
-Spring Boot      ██████████████████░░
-```
-
----
-
 ## 📌 Áreas de atuação
 
 ```text
