@@ -19,6 +19,7 @@ Gosto de transformar ideias em sistemas funcionais, escaláveis e bem estruturad
 ### Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Express%20Js-6DB33F?style=for-the-badge&logo=Express&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff" />
